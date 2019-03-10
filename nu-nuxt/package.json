@@ -2,7 +2,7 @@
   "name": "nu-nuxt",
   "version": "1.0.0",
   "description": "My finest Nuxt.js project",
-  "author": "jzucadi",
+  "author": "jz",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
